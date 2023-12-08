@@ -11,6 +11,7 @@ InnerView is a real-time facial emotion recognition project developed using Tens
 
 - **[InnerView_model.h5](https://github.com/spignelon/InnerView/releases/download/v1.0/FER2013.zip):** Trained model for facial emotion recognition.
 - **[FER2013 Dataset](https://github.com/spignelon/InnerView/releases/download/v1.0/FER2013.zip):** The FER2013 dataset used for training.
+- **[InnerView.ipynb](InnerView.ipynb):** Jupyter notebook providing insights into the model training process.
 
 ## Acknowledgments
 

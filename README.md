@@ -1,5 +1,5 @@
 # InnerView: : Real-time Facial Emotion Recognition
-InnerView is a real-time facial emotion recognition project developed using TensorFlow, Keras, OpenCV, MobileNetV2, and transfer learning. It allows for recognition of facial emotions in real-time applications.
+InnerView is a real-time facial emotion recognition project developed using TensorFlow, Keras, OpenCV, MobileNetV2, and transfer learning. It allows for efficient recognition of facial emotions in real-time applications.
 
 ## Features
 
